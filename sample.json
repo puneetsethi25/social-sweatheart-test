@@ -1,0 +1,30 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "type": "Breakfast",
+            "amount": 15.20,
+            "currency": "EUR"
+        },
+        {
+            "type": "Breakfast",
+            "amount": 28.10,
+            "currency": "EUR"
+        },
+        {
+            "type": "Lunch",
+            "amount": 10.20,
+            "currency": "EUR"
+        },
+        {
+            "type": "Dinner",
+            "amount": 16.00,
+            "currency": "EUR"
+        },
+        {
+            "type": "Car Rental",
+            "amount": 120.20,
+            "currency": "EUR"
+        }
+    ]
+}
